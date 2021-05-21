@@ -1,0 +1,14 @@
+{
+  "path": {
+    "domain": "http://netschool.100fen.ltd",
+    "api": "/Admin/login",
+    "header": {
+      "Content-Type": "application/json",
+      "charset": "UTF-8"
+    },
+    "body": {
+      "password": "hi@13579",
+      "username": "lgc_ls1"
+    }
+  }
+}
